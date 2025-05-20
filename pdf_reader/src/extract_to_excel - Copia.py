@@ -109,6 +109,10 @@ def main():
 
     df_novo, df_last_cap = process_pdf(pdf_path)
 
+
+
+    
+
     if df_novo.empty:
         messagebox.showerror("Erro", "Nenhum dado de tabela extraído do PDF.")
         return
