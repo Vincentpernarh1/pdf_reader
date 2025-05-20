@@ -1,0 +1,607 @@
+2025-05-15 08:53:13,950 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 08:53:13,951 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 08:53:13,951 - INFO - Processando página 1
+2025-05-15 08:53:14,046 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 08:53:14,046 - INFO - Total de registros extraídos: 33
+2025-05-15 08:53:23,953 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 08:53:42,695 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 08:53:42,696 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 08:53:42,698 - INFO - Processando página 1
+2025-05-15 08:53:42,793 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 08:53:42,793 - INFO - Total de registros extraídos: 33
+2025-05-15 08:53:50,717 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 09:14:22,167 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:14:22,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:14:22,168 - INFO - Processando página 1
+2025-05-15 09:14:22,264 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:14:22,264 - INFO - Total de registros extraídos: 3
+2025-05-15 09:14:52,060 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:14:52,061 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:14:52,062 - INFO - Processando página 1
+2025-05-15 09:14:52,190 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:14:52,190 - INFO - Total de registros extraídos: 3
+2025-05-15 09:15:11,182 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 09:21:58,644 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:21:58,645 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:21:58,646 - INFO - Processando página 1
+2025-05-15 09:21:58,762 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:21:58,762 - INFO - Total de registros extraídos: 3
+2025-05-15 09:22:18,564 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 09:22:41,147 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:22:41,148 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:22:41,149 - INFO - Processando página 1
+2025-05-15 09:22:41,243 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:22:41,243 - INFO - Total de registros extraídos: 3
+2025-05-15 09:22:54,071 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 09:28:24,243 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:28:24,245 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:28:24,245 - INFO - Processando página 1
+2025-05-15 09:28:24,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:28:24,379 - INFO - Total de registros extraídos: 3
+2025-05-15 09:28:36,071 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 09:43:07,735 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:43:07,736 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:43:07,737 - INFO - Processando página 1
+2025-05-15 09:43:07,831 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:43:07,832 - INFO - Total de registros extraídos: 3
+2025-05-15 09:43:21,887 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 09:43:47,302 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:43:47,302 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:43:47,303 - INFO - Processando página 1
+2025-05-15 09:43:47,402 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:43:47,402 - INFO - Total de registros extraídos: 3
+2025-05-15 09:43:58,927 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 09:45:07,608 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:45:07,609 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:45:07,609 - INFO - Processando página 1
+2025-05-15 09:45:07,701 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:45:07,701 - INFO - Total de registros extraídos: 3
+2025-05-15 09:45:20,751 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 09:48:20,405 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:48:20,406 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:48:20,406 - INFO - Processando página 1
+2025-05-15 09:48:20,513 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:48:20,514 - INFO - Total de registros extraídos: 3
+2025-05-15 09:50:52,448 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 09:52:55,185 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:52:55,186 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:52:55,186 - INFO - Processando página 1
+2025-05-15 09:52:55,274 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:52:55,274 - INFO - Total de registros extraídos: 3
+2025-05-15 09:53:17,102 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 09:59:57,501 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:59:57,503 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:59:57,503 - INFO - Processando página 1
+2025-05-15 09:59:57,651 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:59:57,651 - INFO - Total de registros extraídos: 3
+2025-05-15 10:00:08,418 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 10:00:45,655 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:00:45,656 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:00:45,656 - INFO - Processando página 1
+2025-05-15 10:00:45,772 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:00:45,772 - INFO - Total de registros extraídos: 3
+2025-05-15 10:00:57,116 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 10:01:06,098 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:01:06,099 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:01:06,099 - INFO - Processando página 1
+2025-05-15 10:01:06,202 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:01:06,203 - INFO - Total de registros extraídos: 3
+2025-05-15 10:01:18,812 - ERROR - Erro desconhecido ao salvar: single positional indexer is out-of-bounds
+2025-05-15 10:01:54,062 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:01:54,063 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:01:54,063 - INFO - Processando página 1
+2025-05-15 10:01:54,168 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:01:54,168 - INFO - Total de registros extraídos: 3
+2025-05-15 10:02:01,809 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:11:18,780 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:11:18,781 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:11:18,781 - INFO - Processando página 1
+2025-05-15 10:11:18,882 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:11:18,883 - INFO - Total de registros extraídos: 3
+2025-05-15 10:11:31,336 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 10:11:46,405 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:11:46,406 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:11:46,406 - INFO - Processando página 1
+2025-05-15 10:11:46,536 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:11:46,536 - INFO - Total de registros extraídos: 3
+2025-05-15 10:11:58,228 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:13:32,264 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:13:32,265 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:13:32,266 - INFO - Processando página 1
+2025-05-15 10:13:32,390 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:13:32,390 - INFO - Total de registros extraídos: 3
+2025-05-15 10:13:42,990 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 10:13:56,743 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:13:56,743 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:13:56,744 - INFO - Processando página 1
+2025-05-15 10:13:56,867 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:13:56,868 - INFO - Total de registros extraídos: 3
+2025-05-15 10:14:04,988 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 10:16:26,418 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:16:26,419 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:16:26,419 - INFO - Processando página 1
+2025-05-15 10:16:26,484 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:16:26,484 - INFO - Total de registros extraídos: 3
+2025-05-15 10:16:38,284 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:18:39,059 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:18:39,059 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:18:39,059 - INFO - Processando página 1
+2025-05-15 10:18:39,132 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:18:39,132 - INFO - Total de registros extraídos: 3
+2025-05-15 10:18:48,489 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:19:49,341 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:19:49,342 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:19:49,342 - INFO - Processando página 1
+2025-05-15 10:19:49,409 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:19:49,409 - INFO - Total de registros extraídos: 3
+2025-05-15 10:19:59,001 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:23:01,136 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:23:01,137 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:23:01,137 - INFO - Processando página 1
+2025-05-15 10:23:01,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:23:01,203 - INFO - Total de registros extraídos: 3
+2025-05-15 10:23:10,991 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 10:23:23,308 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:23:23,309 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:23:23,309 - INFO - Processando página 1
+2025-05-15 10:23:23,385 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:23:23,386 - INFO - Total de registros extraídos: 3
+2025-05-15 10:23:32,258 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:28:16,852 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:28:16,853 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:28:16,853 - INFO - Processando página 1
+2025-05-15 10:28:16,920 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:28:16,920 - INFO - Total de registros extraídos: 3
+2025-05-15 10:28:26,203 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 10:28:38,027 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:28:38,028 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:28:38,028 - INFO - Processando página 1
+2025-05-15 10:28:38,097 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:28:38,098 - INFO - Total de registros extraídos: 3
+2025-05-15 10:28:47,618 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:29:44,293 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:29:44,294 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:29:44,294 - INFO - Processando página 1
+2025-05-15 10:29:44,359 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:29:44,360 - INFO - Total de registros extraídos: 3
+2025-05-15 10:29:53,806 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:31:20,310 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:31:20,310 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:31:20,311 - INFO - Processando página 1
+2025-05-15 10:31:20,378 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:31:20,378 - INFO - Total de registros extraídos: 3
+2025-05-15 10:31:28,525 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 10:31:45,685 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:31:45,685 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:31:45,685 - INFO - Processando página 1
+2025-05-15 10:31:45,754 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:31:45,754 - INFO - Total de registros extraídos: 3
+2025-05-15 10:31:52,154 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:34:42,996 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:34:42,997 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:34:42,997 - INFO - Processando página 1
+2025-05-15 10:34:43,063 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:34:43,063 - INFO - Total de registros extraídos: 3
+2025-05-15 10:34:51,441 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 10:35:06,812 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:35:06,813 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:35:06,813 - INFO - Processando página 1
+2025-05-15 10:35:06,883 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:35:06,883 - INFO - Total de registros extraídos: 3
+2025-05-15 10:35:15,461 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:35:58,668 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:35:58,669 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:35:58,669 - INFO - Processando página 1
+2025-05-15 10:35:58,736 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:35:58,737 - INFO - Total de registros extraídos: 3
+2025-05-15 10:36:10,216 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 10:36:21,810 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:36:21,810 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:36:21,810 - INFO - Processando página 1
+2025-05-15 10:36:21,886 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:36:21,886 - INFO - Total de registros extraídos: 3
+2025-05-15 10:36:29,475 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:38:34,092 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:38:34,093 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:38:34,093 - INFO - Processando página 1
+2025-05-15 10:38:34,158 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:38:34,158 - INFO - Total de registros extraídos: 3
+2025-05-15 10:40:04,720 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:40:04,721 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:40:04,721 - INFO - Processando página 1
+2025-05-15 10:40:04,791 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:40:04,791 - INFO - Total de registros extraídos: 3
+2025-05-15 10:40:15,403 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 10:44:59,981 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 10:44:59,981 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:44:59,981 - INFO - Processando página 1
+2025-05-15 10:45:00,056 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 10:45:00,056 - INFO - Registros totais: 23 | Estruturados: 3
+2025-05-15 10:45:09,710 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
+2025-05-15 11:04:46,933 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:04:46,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:04:46,934 - INFO - Processando página 1
+2025-05-15 11:04:47,002 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:04:58,648 - ERROR - Erro ao processar: 'Worksheet Planilha1 does not exist.'
+2025-05-15 11:05:42,246 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:05:42,247 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:05:42,247 - INFO - Processando página 1
+2025-05-15 11:05:42,316 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:05:57,303 - ERROR - Erro ao processar: [Errno 2] No such file or directory: 'C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx'
+2025-05-15 11:06:22,716 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:06:22,716 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:06:22,716 - INFO - Processando página 1
+2025-05-15 11:06:22,782 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:09:06,576 - ERROR - Erro ao processar: [Errno 2] No such file or directory: 'C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx'
+2025-05-15 11:09:12,340 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:09:12,341 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:09:12,341 - INFO - Processando página 1
+2025-05-15 11:09:12,412 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:09:21,456 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 11:15:31,810 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:15:31,811 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:15:31,811 - INFO - Processando página 1
+2025-05-15 11:15:31,884 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:15:31,885 - INFO - Registros totais: 23 | Estruturados: 3
+2025-05-15 11:15:42,319 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 11:16:31,936 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:16:31,937 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:16:31,937 - INFO - Processando página 1
+2025-05-15 11:16:32,004 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:16:32,004 - INFO - Registros totais: 23 | Estruturados: 3
+2025-05-15 11:16:43,243 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 11:20:40,308 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:20:40,309 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:20:40,309 - INFO - Processando página 1
+2025-05-15 11:20:40,381 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:20:40,381 - INFO - Registros totais: 23 | Estruturados: 3
+2025-05-15 11:20:50,441 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 11:21:17,012 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:21:17,012 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:21:17,012 - INFO - Processando página 1
+2025-05-15 11:21:17,083 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:21:17,083 - INFO - Registros totais: 23 | Estruturados: 3
+2025-05-15 11:21:28,092 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 11:41:12,607 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:41:12,608 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:41:12,608 - INFO - Processando página 1
+2025-05-15 11:41:12,679 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:41:21,948 - INFO - Arquivo salvo com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 11:47:34,903 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:47:34,904 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:47:34,904 - INFO - Processando página 1
+2025-05-15 11:47:34,970 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:47:34,971 - INFO - Registros estruturados: 3
+2025-05-15 11:47:44,264 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 11:50:12,389 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 11:50:12,389 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:50:12,390 - INFO - Processando página 1
+2025-05-15 11:50:12,466 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 11:50:12,466 - INFO - Registros estruturados: 3
+2025-05-15 11:50:21,716 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 12:53:11,129 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 12:53:11,130 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 12:53:11,131 - INFO - Processando página 1
+2025-05-15 12:53:11,202 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 12:53:11,202 - INFO - Registros estruturados: 28
+2025-05-15 12:53:23,277 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 12:55:22,857 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 12:55:22,857 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 12:55:22,857 - INFO - Processando página 1
+2025-05-15 12:55:22,921 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 12:55:22,921 - INFO - Registros estruturados: 28
+2025-05-15 12:55:32,194 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 13:06:27,027 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:06:27,028 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:06:27,028 - INFO - Processando página 1
+2025-05-15 13:06:27,098 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:06:27,099 - INFO - Registros estruturados: 28
+2025-05-15 13:06:35,974 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 13:06:49,108 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:06:49,108 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:06:49,109 - INFO - Processando página 1
+2025-05-15 13:06:49,185 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:06:49,185 - INFO - Registros estruturados: 28
+2025-05-15 13:06:57,410 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 13:08:59,403 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:08:59,404 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:08:59,404 - INFO - Processando página 1
+2025-05-15 13:08:59,469 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:08:59,470 - INFO - Registros estruturados: 28
+2025-05-15 13:09:13,081 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 13:14:38,716 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:14:38,717 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:14:38,717 - INFO - Processando página 1
+2025-05-15 13:14:38,789 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:14:38,789 - INFO - Registros estruturados: 28
+2025-05-15 13:14:58,193 - ERROR - Erro desconhecido ao salvar: (3, 'Resultado')
+2025-05-15 13:19:57,683 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:19:57,684 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:19:57,684 - INFO - Processando página 1
+2025-05-15 13:19:57,747 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:19:57,748 - INFO - Registros estruturados: 28
+2025-05-15 13:20:11,006 - ERROR - Erro desconhecido ao salvar: (3, 'Resultado')
+2025-05-15 13:21:30,544 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:21:30,544 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:21:30,544 - INFO - Processando página 1
+2025-05-15 13:21:30,611 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:21:30,612 - INFO - Registros estruturados: 28
+2025-05-15 13:21:42,663 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 13:36:04,039 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:36:04,040 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:36:04,040 - INFO - Processando página 1
+2025-05-15 13:36:04,117 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:36:04,117 - INFO - Registros estruturados: 28
+2025-05-15 13:36:22,704 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-15 13:37:24,668 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:37:24,669 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:37:24,669 - INFO - Processando página 1
+2025-05-15 13:37:24,757 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:37:24,757 - INFO - Registros estruturados: 28
+2025-05-15 13:37:48,587 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-15 13:41:25,777 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:41:25,778 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:41:25,778 - INFO - Processando página 1
+2025-05-15 13:41:25,853 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:41:25,853 - INFO - Registros estruturados: 28
+2025-05-15 13:42:28,057 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:42:28,058 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:42:28,058 - INFO - Processando página 1
+2025-05-15 13:42:28,133 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:42:28,133 - INFO - Registros estruturados: 28
+2025-05-15 13:43:14,202 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:43:14,203 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:43:14,203 - INFO - Processando página 1
+2025-05-15 13:43:14,277 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:43:14,277 - INFO - Registros estruturados: 28
+2025-05-15 13:43:41,872 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:43:41,873 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:43:41,873 - INFO - Processando página 1
+2025-05-15 13:43:41,945 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:43:41,945 - INFO - Registros estruturados: 28
+2025-05-15 13:44:14,763 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:44:14,763 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:44:14,763 - INFO - Processando página 1
+2025-05-15 13:44:14,836 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:44:14,836 - INFO - Registros estruturados: 28
+2025-05-15 13:44:32,278 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:44:32,278 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:44:32,279 - INFO - Processando página 1
+2025-05-15 13:44:32,358 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:44:32,358 - INFO - Registros estruturados: 28
+2025-05-15 13:44:59,655 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:44:59,656 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:44:59,656 - INFO - Processando página 1
+2025-05-15 13:44:59,727 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:44:59,727 - INFO - Registros estruturados: 28
+2025-05-15 13:45:28,231 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:45:28,232 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:45:28,233 - INFO - Processando página 1
+2025-05-15 13:45:28,306 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:45:28,306 - INFO - Registros estruturados: 28
+2025-05-15 13:45:51,156 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:45:51,157 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:45:51,157 - INFO - Processando página 1
+2025-05-15 13:45:51,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:45:51,228 - INFO - Registros estruturados: 28
+2025-05-15 13:46:08,799 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:46:08,799 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:46:08,800 - INFO - Processando página 1
+2025-05-15 13:46:08,874 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:46:08,874 - INFO - Registros estruturados: 28
+2025-05-15 13:46:32,843 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:46:32,843 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:46:32,843 - INFO - Processando página 1
+2025-05-15 13:46:32,917 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:46:32,918 - INFO - Registros estruturados: 28
+2025-05-15 13:47:05,324 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:47:05,326 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:47:05,326 - INFO - Processando página 1
+2025-05-15 13:47:05,407 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:47:05,407 - INFO - Registros estruturados: 28
+2025-05-15 13:52:35,829 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:52:35,831 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:52:35,831 - INFO - Processando página 1
+2025-05-15 13:52:35,913 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:52:35,914 - INFO - Registros estruturados: 28
+2025-05-15 13:53:03,454 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:53:03,454 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:53:03,455 - INFO - Processando página 1
+2025-05-15 13:53:03,530 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:53:03,531 - INFO - Registros estruturados: 28
+2025-05-15 13:58:40,965 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 13:58:40,966 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:58:40,966 - INFO - Processando página 1
+2025-05-15 13:58:41,044 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 13:58:41,045 - INFO - Registros estruturados: 28
+2025-05-15 14:00:16,050 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:00:16,050 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:00:16,051 - INFO - Processando página 1
+2025-05-15 14:00:16,123 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:00:16,124 - INFO - Registros estruturados: 28
+2025-05-15 14:02:44,569 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:02:44,570 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:02:44,570 - INFO - Processando página 1
+2025-05-15 14:02:44,643 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:02:44,644 - INFO - Registros estruturados: 28
+2025-05-15 14:03:04,856 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:03:04,857 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:03:04,857 - INFO - Processando página 1
+2025-05-15 14:03:04,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:03:04,934 - INFO - Registros estruturados: 28
+2025-05-15 14:04:01,105 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:04:01,106 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:04:01,106 - INFO - Processando página 1
+2025-05-15 14:04:01,180 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:04:01,180 - INFO - Registros estruturados: 28
+2025-05-15 14:05:18,621 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:05:18,621 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:05:18,622 - INFO - Processando página 1
+2025-05-15 14:05:18,708 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:05:18,708 - INFO - Registros estruturados: 28
+2025-05-15 14:05:36,685 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:05:36,686 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:05:36,686 - INFO - Processando página 1
+2025-05-15 14:05:36,760 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:05:36,760 - INFO - Registros estruturados: 28
+2025-05-15 14:05:59,060 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:05:59,061 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:05:59,061 - INFO - Processando página 1
+2025-05-15 14:05:59,138 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:05:59,139 - INFO - Registros estruturados: 28
+2025-05-15 14:07:55,395 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:07:55,396 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:07:55,396 - INFO - Processando página 1
+2025-05-15 14:07:55,471 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:07:55,472 - INFO - Registros estruturados: 28
+2025-05-15 14:08:49,125 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:08:49,125 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:08:49,126 - INFO - Processando página 1
+2025-05-15 14:08:49,201 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:08:49,201 - INFO - Registros estruturados: 28
+2025-05-15 14:09:54,437 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:09:54,438 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:09:54,438 - INFO - Processando página 1
+2025-05-15 14:09:54,521 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:09:54,521 - INFO - Registros estruturados: 28
+2025-05-15 14:10:08,794 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:10:08,795 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:10:08,795 - INFO - Processando página 1
+2025-05-15 14:10:08,883 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:10:08,883 - INFO - Registros estruturados: 28
+2025-05-15 14:11:02,482 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:11:02,483 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:11:02,483 - INFO - Processando página 1
+2025-05-15 14:11:02,557 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:11:02,557 - INFO - Registros estruturados: 28
+2025-05-15 14:13:00,609 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:13:00,610 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:13:00,610 - INFO - Processando página 1
+2025-05-15 14:13:00,679 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:13:00,680 - INFO - Registros estruturados: 28
+2025-05-15 14:15:13,480 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:15:13,482 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:15:13,483 - INFO - Processando página 1
+2025-05-15 14:15:13,564 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:15:13,564 - INFO - Registros estruturados: 28
+2025-05-15 14:15:49,090 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:15:49,091 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:15:49,091 - INFO - Processando página 1
+2025-05-15 14:15:49,164 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:15:49,164 - INFO - Registros estruturados: 28
+2025-05-15 14:17:55,323 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 14:17:55,324 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:17:55,324 - INFO - Processando página 1
+2025-05-15 14:17:55,402 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 14:17:55,403 - INFO - Registros estruturados: 28
+2025-05-15 16:20:19,278 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 16:20:19,278 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 16:20:19,279 - INFO - Processando página 1
+2025-05-15 16:20:19,353 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 16:20:19,353 - INFO - Registros estruturados: 28
+2025-05-15 16:21:13,859 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 16:21:13,860 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 16:21:13,860 - INFO - Processando página 1
+2025-05-15 16:21:13,935 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 16:21:13,936 - INFO - Registros estruturados: 28
+2025-05-16 08:12:02,222 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 08:12:02,223 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:12:02,224 - INFO - Processando página 1
+2025-05-16 08:12:02,362 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:12:02,363 - INFO - Registros estruturados: 28
+2025-05-16 08:12:19,130 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-16 08:39:29,761 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 08:39:29,762 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:39:29,763 - INFO - Processando página 1
+2025-05-16 08:39:29,865 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:39:29,865 - INFO - Registros estruturados: 28
+2025-05-16 08:39:42,893 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-16 08:40:02,833 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 08:40:02,834 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:40:02,834 - INFO - Processando página 1
+2025-05-16 08:40:02,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:40:02,935 - INFO - Registros estruturados: 28
+2025-05-16 08:40:11,606 - ERROR - Erro: Sem permissão para salvar o arquivo.
+2025-05-16 08:40:27,889 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 08:40:27,890 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:40:27,890 - INFO - Processando página 1
+2025-05-16 08:40:28,027 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 08:40:28,027 - INFO - Registros estruturados: 28
+2025-05-16 08:40:37,314 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/resultado_final.xlsx
+2025-05-16 09:03:34,203 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:03:34,205 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:03:34,205 - INFO - Processando página 1
+2025-05-16 09:03:34,315 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:03:34,316 - INFO - Registros estruturados: 28
+2025-05-16 09:03:46,489 - ERROR - Erro desconhecido ao salvar: 'Resultado'
+2025-05-16 09:04:45,932 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:04:45,934 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:04:45,934 - INFO - Processando página 1
+2025-05-16 09:04:46,071 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:04:46,072 - INFO - Registros estruturados: 28
+2025-05-16 09:04:58,582 - ERROR - Erro desconhecido ao salvar: 'Resultado'
+2025-05-16 09:05:50,062 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:05:50,065 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:05:50,065 - INFO - Processando página 1
+2025-05-16 09:05:50,201 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:05:50,201 - INFO - Registros estruturados: 28
+2025-05-16 09:05:58,732 - ERROR - Erro desconhecido ao salvar: 'Resultado'
+2025-05-16 09:08:23,350 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:08:23,352 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:08:23,353 - INFO - Processando página 1
+2025-05-16 09:08:23,455 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:08:23,455 - INFO - Registros estruturados: 28
+2025-05-16 09:10:10,298 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:10:10,299 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:10:10,299 - INFO - Processando página 1
+2025-05-16 09:10:10,434 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:10:10,434 - INFO - Registros estruturados: 28
+2025-05-16 09:16:48,498 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:16:48,500 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:16:48,501 - INFO - Processando página 1
+2025-05-16 09:16:48,646 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:16:48,647 - INFO - Registros estruturados: 28
+2025-05-16 09:17:56,048 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:17:56,050 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:17:56,051 - INFO - Processando página 1
+2025-05-16 09:17:56,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:17:56,231 - INFO - Registros estruturados: 28
+2025-05-16 09:21:27,751 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:21:27,753 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:21:27,754 - INFO - Processando página 1
+2025-05-16 09:21:27,867 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:21:27,867 - INFO - Registros estruturados: 28
+2025-05-16 09:25:52,874 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 09:25:52,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:25:52,877 - INFO - Processando página 1
+2025-05-16 09:25:53,017 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 09:25:53,017 - INFO - Registros estruturados: 28
+2025-05-16 13:40:53,485 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 13:40:53,486 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:40:53,487 - INFO - Processando página 1
+2025-05-16 13:40:53,604 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:40:53,605 - INFO - Registros estruturados: 28
+2025-05-16 13:42:46,812 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 13:42:46,813 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:42:46,814 - INFO - Processando página 1
+2025-05-16 13:42:46,959 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:42:46,959 - INFO - Registros estruturados: 28
+2025-05-16 13:46:20,119 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 13:46:20,121 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:46:20,122 - INFO - Processando página 1
+2025-05-16 13:46:20,247 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:46:20,248 - INFO - Registros estruturados: 28
+2025-05-16 13:47:38,392 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 13:47:38,393 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:47:38,393 - INFO - Processando página 1
+2025-05-16 13:47:38,509 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:47:38,509 - INFO - Registros estruturados: 28
+2025-05-16 13:54:06,849 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 13:54:06,850 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:54:06,850 - INFO - Processando página 1
+2025-05-16 13:54:06,982 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 13:54:06,982 - INFO - Registros estruturados: 28
+2025-05-16 14:00:54,727 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-16 14:00:54,728 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-16 14:00:54,728 - INFO - Processando página 1
+2025-05-16 14:00:54,848 - WARNING - CropBox missing from /Page, defaulting to MediaBox

@@ -1,0 +1,6 @@
+2025-05-15 09:57:09,048 - INFO - PDF carregado com sucesso: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/raw/Entrega de capacidade Marelli (55).pdf
+2025-05-15 09:57:09,048 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:57:09,049 - INFO - Processando página 1
+2025-05-15 09:57:09,130 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-15 09:57:09,130 - INFO - Total de registros extraídos: 3
+2025-05-15 09:57:20,943 - INFO - Dados gravados com sucesso em: C:/Users/irogc/OneDrive/Documentos/Python Scripts/pdf_reader/data/processed/dados_extraidos.xlsx
